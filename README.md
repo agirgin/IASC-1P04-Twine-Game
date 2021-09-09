@@ -8,4 +8,4 @@ Playtest my game [here]().
 
 ## Final Build
 
-Here's my final build [here]().
+Take a look at my final build [here]().
