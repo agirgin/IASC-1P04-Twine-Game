@@ -8,5 +8,9 @@ Attribution 3.0
 
 ---
 
-"Notes"
-by Someone
+"Heart of the Derelict"
+by PorchCat
+
+Licensed under
+Creative Commons
+Attribution (3.0)
