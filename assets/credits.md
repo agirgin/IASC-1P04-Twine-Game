@@ -17,9 +17,41 @@ Attribution 0
 
 ---
 
-"Airing the winter coats"
-By Trevor Butcher 
+"Clock ticking"
+By Mortifreshman
 
 Licesnsed under
 Creative Commons
-Attribution 3.0
+Attribution 0
+
+---
+"Decline"
+By Andrewkn
+
+Licesnsed under
+Creative Commons
+Attribution 0
+
+---
+"Floral Flower Flowering"
+By OpenClipart-Vectors 
+
+Licesnsed under
+Creative Commons
+Attribution 0
+
+---
+"Tool Equiptment Isolated"
+By OpenClipart-Vectors 
+
+Licesnsed under
+Creative Commons
+Attribution 0
+
+---
+"Book Embossing"
+By Darkmoon
+
+Licesnsed under
+Creative Commons
+Attribution 0
