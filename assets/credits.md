@@ -8,12 +8,12 @@ Attribution 0
 
 ---
 
-"Heart of the Derelict"
-by PorchCat
+"Sniffles"
+by ThunderQuads
 
 Licensed under
 Creative Commons
-Attribution 3.0
+Attribution 0
 
 ---
 
