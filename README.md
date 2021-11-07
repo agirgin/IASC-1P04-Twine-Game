@@ -10,6 +10,3 @@ Playtest my game [here](playtest/playtest)
 
 Play my game's prototype [here](https://agirgin.github.io/IASC-1P04-Twine-Game/prototype/Skillful_Hands.html).
 
-## Final Build
-
-Take a look at my final build [here]().
