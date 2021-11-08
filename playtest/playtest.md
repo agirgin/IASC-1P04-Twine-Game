@@ -2,7 +2,7 @@
 
 ## Playtest the game
 
-Play the prototype [here](https://agirgin.github.io/IASC-1P04-Twine-Game/prototype/Skillful_Hands.html)
+Play the prototype [here](https://agirgin.github.io/IASC-1P04-Twine-Game/prototype/Alara_Girgin_Twine_Prototype.html)
 
 ## Complete the playtest survey
 
